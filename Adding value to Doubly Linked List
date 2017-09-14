@@ -41,7 +41,7 @@ void deletefirst()
     else
     {
         head = NULL;
-        lasr = NULL;
+        last = NULL;
     }
 }
 
