@@ -9,4 +9,4 @@ Projects: <br/>
 [Linked Lists](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adding%20values%20to%20Linked%20List.cpp) <br/>
 [Doubly Linked List](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adding%20value%20to%20Doubly%20Linked%20List.cpp) <br/>
 [Circular Linked List](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adding%20values%20to%20Circular%20Linked%20Lists.cpp) </br>
-[Binary Sort](https://github.com/RushikeshTote/Basic-Projects/blob/master/Binary%20Search.cpp)<br/>
+[Binary Search](https://github.com/RushikeshTote/Basic-Projects/blob/master/Binary%20Search.cpp)<br/>
