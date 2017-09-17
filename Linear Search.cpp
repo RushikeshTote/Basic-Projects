@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void BinarySearch(int a[], int n, int x)
+void LinearSearch(int a[], int n, int x)
 {
     cout << "Here are the indexes:" << endl;
     for(int i=0; i<n ; i++)
@@ -29,6 +29,6 @@ int main()
     {
         cin >> a[i];
     }
-    BinarySearch(a[],n,x);
+    LinearSearch(a[],n,x);
     return 0;
 }
