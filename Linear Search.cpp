@@ -1,4 +1,4 @@
-//Binary Search Algorithm
+//Linear Search Algorithm
 //C++
 #include <bits/stdc++.h>
 using namespace std;
