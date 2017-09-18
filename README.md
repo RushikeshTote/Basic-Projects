@@ -11,3 +11,5 @@ Projects: <br/>
 [Circular Linked List](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adding%20values%20to%20Circular%20Linked%20Lists.cpp) </br>
 [Linear Search](https://github.com/RushikeshTote/Basic-Projects/blob/master/Linear%20Search.cpp)<br/>
 [Binary Search](https://github.com/RushikeshTote/Basic-Projects/blob/master/Binary%20Search.cpp)<br/>
+[Bubble Sort](https://github.com/RushikeshTote/Basic-Projects/blob/master/Bubble%20Sort%2Ccpp)<br/>
+[Insertion Sort](https://github.com/RushikeshTote/Basic-Projects/blob/master/Insertion%20Sort.cpp)<br/>
