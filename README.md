@@ -9,6 +9,7 @@ Projects: <br/>
 [Maximum Sum of Subarray](https://github.com/RushikeshTote/Basic-Projects/blob/master/Maximum%20Sum-Subarray.cpp)<br/>
 [Palindrome](https://github.com/RushikeshTote/Basic-Projects/blob/master/Palindrome.cpp)<br/>
 [Factorial](https://github.com/RushikeshTote/Basic-Projects/blob/master/Factorial.cpp)<br/>
+[Decimal to Binary](https://github.com/RushikeshTote/Basic-Projects/blob/master/Decimal%20Base%20to%20Binary%20Base.cpp)<br/>
 [Linked Lists](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adding%20values%20to%20Linked%20List.cpp) <br/>
 [Doubly Linked List](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adding%20value%20to%20Doubly%20Linked%20List.cpp) <br/>
 [Circular Linked List](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adding%20values%20to%20Circular%20Linked%20Lists.cpp) </br>
