@@ -18,3 +18,4 @@ Projects: <br/>
 [Bubble Sort](https://github.com/RushikeshTote/Basic-Projects/blob/master/Bubble%20Sort%2Ccpp)<br/>
 [Insertion Sort](https://github.com/RushikeshTote/Basic-Projects/blob/master/Insertion%20Sort.cpp)<br/>
 [Merge Sort](https://github.com/RushikeshTote/Basic-Projects/blob/master/Merge%20Sort.cpp)<br/>
+[Adjacency Matrix](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adjacency%20Matrix.cpp)<br/>
