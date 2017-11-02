@@ -20,3 +20,4 @@ Projects: <br/>
 [Merge Sort](https://github.com/RushikeshTote/Basic-Projects/blob/master/Merge%20Sort.cpp)<br/>
 [Adjacency Matrix](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adjacency%20Matrix.cpp)<br/>
 [DFS](https://github.com/RushikeshTote/Basic-Projects/blob/master/DFS.cpp)<br/>
+[coins Problem](https://github.com/RushikeshTote/Basic-Projects/blob/master/Coins%20Problem.cpp)<br/>
