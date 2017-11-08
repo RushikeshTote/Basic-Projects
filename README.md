@@ -1,5 +1,5 @@
 # Basic-Projects
-This repository includes basic essential projects of varying fields. It mostly includes Algorithms, Data Structures and few Maths projects.<br/>
+This repository includes basic projects. It mostly includes Algorithms, Data Structures and few Maths projects.<br/>
 Written  in C++
 
 Projects: <br/>
@@ -21,3 +21,4 @@ Projects: <br/>
 [Adjacency Matrix](https://github.com/RushikeshTote/Basic-Projects/blob/master/Adjacency%20Matrix.cpp)<br/>
 [DFS](https://github.com/RushikeshTote/Basic-Projects/blob/master/DFS.cpp)<br/>
 [Coins Problem](https://github.com/RushikeshTote/Basic-Projects/blob/master/Coins%20Problem.cpp)<br/>
+[Longest Common Subsequence](https://github.com/RushikeshTote/Basic-Projects/blob/master/LCS.cpp)<br/>
