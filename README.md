@@ -1,8 +1,6 @@
 # Basic-Projects
-This repository includes basic projects. It mostly includes Algorithms, Data Structures and few Maths projects.<br/>
+This repository includes basic projects. It mostly includes Algorithms, Data Structures and few Maths codes.<br/>
 Written  in C++
-
-Projects: <br/>
 
 [Prime or Composite](https://github.com/RushikeshTote/Basic-Projects/blob/master/Prime%20or%20Composite.cpp) <br/>
 [Fibanocci Series](https://github.com/RushikeshTote/Basic-Projects/blob/master/Fibonacci%20Series.cpp) <br/>
